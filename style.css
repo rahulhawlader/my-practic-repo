@@ -1,0 +1,12 @@
+body{ background-color: crimson;}
+
+.we{border:50px solid rgb(20, 220, 30);
+    background-color: darkviolet;
+    width: 500px;
+    height: 500px;
+    padding: 35px;
+    border: 50% ;
+    margin: 10px;
+    }
+    h2{ color: green; font-size: medium;}
+    
